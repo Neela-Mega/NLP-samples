@@ -1,2 +1,0 @@
-# NLP-samples
-Sample Codings
